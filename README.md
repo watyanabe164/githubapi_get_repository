@@ -1,0 +1,2 @@
+# githubapi_get_repository
+github apiを使って直接リポジトリのデータを取りに行けるかどうか検証したい
